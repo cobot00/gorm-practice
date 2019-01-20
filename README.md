@@ -18,3 +18,6 @@ Run application.
 ```bash
 go run main.go
 ```
+
+## License
+MIT
